@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 39
+  controlID: 15
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 40
+  controlID: 16
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,10 +168,10 @@ MonoBehaviour:
     y: 0
     width: 1702
     height: 1307
-  m_MinSize: {x: 201, y: 421}
-  m_MaxSize: {x: 4001, y: 8021}
+  m_MinSize: {x: 201, y: 442}
+  m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 41
+  controlID: 17
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 0
     width: 1702
     height: 795
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 90
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 91
+  controlID: 68
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -322,8 +322,8 @@ MonoBehaviour:
     y: 0
     width: 462
     height: 795
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -413,7 +413,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -426,7 +426,7 @@ MonoBehaviour:
       y: 21
       width: 1701
       height: 470
-    m_Scale: {x: 0.4351852, y: 0.4351852}
+    m_Scale: {x: 0.45462963, y: 0.4546296}
     m_Translation: {x: 850.5, y: 235}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -434,12 +434,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1954.3403
-      y: -540
-      width: 3908.6807
-      height: 1080
+      x: -1870.7535
+      y: -516.9043
+      width: 3741.507
+      height: 1033.8086
     m_MinimalGUI: 1
-  m_defaultScale: 0.4351852
+  m_defaultScale: 0.45462963
   m_LastWindowPixelSize: {x: 1701, y: 491}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -482,9 +482,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.2817974, y: 0.41367525, z: -4.725485}
+    m_Target: {x: -2.7525249, y: 0.33851296, z: -0.7633176}
     speed: 2
-    m_Value: {x: 5.2817974, y: 0.41367525, z: -4.725485}
+    m_Value: {x: -2.7525249, y: 0.33851296, z: -0.7633176}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -531,13 +531,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15432489, y: 0.8384092, z: -0.30444425, w: -0.4250419}
+    m_Target: {x: -0.087829776, y: 0.90888596, z: -0.32691976, w: -0.24388576}
     speed: 2
-    m_Value: {x: -0.15477419, y: 0.8377318, z: -0.30419827, w: -0.42627925}
+    m_Value: {x: -0.088189036, y: 0.90832895, z: -0.32825902, w: -0.24373616}
   m_Size:
-    m_Target: 3.2485845
+    m_Target: 13.186895
     speed: 2
-    m_Value: 2.9485846
+    m_Value: 12.619039
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -668,9 +668,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ac56feff
-      m_LastClickedID: -108884
-      m_ExpandedIDs: be66feff2a55ffffb255ffffb256ffff0061ffff5cfaffff
+      m_SelectedIDs: 2ab2feff
+      m_LastClickedID: -85462
+      m_ExpandedIDs: 9afaffff9cfaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -794,22 +794,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/!Featured_Jun
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/!Featured_Jun
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\aktm7\Documents\GitHub\Misari_Puzzle
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ca670000
-    m_LastClickedID: 26570
-    m_ExpandedIDs: 000000009e6400009c670000ca67000000ca9a3b
+    m_SelectedIDs: 44490000
+    m_LastClickedID: 18756
+    m_ExpandedIDs: 000000004449000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -837,7 +837,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000044490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
