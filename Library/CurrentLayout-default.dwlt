@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 67
+  controlID: 116
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 478, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 68
+  controlID: 117
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -482,9 +482,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.7525249, y: 0.33851296, z: -0.7633176}
+    m_Target: {x: 1.3101974, y: -0.9111933, z: -1.9196801}
     speed: 2
-    m_Value: {x: -2.7525249, y: 0.33851296, z: -0.7633176}
+    m_Value: {x: 1.3101974, y: -0.9111933, z: -1.9196801}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -531,13 +531,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.087829776, y: 0.90888596, z: -0.32691976, w: -0.24388576}
+    m_Target: {x: -0.1293715, y: 0.81557626, z: -0.1997916, w: -0.52756625}
     speed: 2
-    m_Value: {x: -0.088189036, y: 0.90832895, z: -0.32825902, w: -0.24373616}
+    m_Value: {x: -0.13015315, y: 0.81521684, z: -0.20100035, w: -0.5273336}
   m_Size:
-    m_Target: 13.186895
+    m_Target: 9.55358
     speed: 2
-    m_Value: 12.619039
+    m_Value: 10.003749
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -668,9 +668,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2ab2feff
-      m_LastClickedID: -85462
-      m_ExpandedIDs: 9afaffff9cfaffff
+      m_SelectedIDs: 6ae8ffff
+      m_LastClickedID: -6038
+      m_ExpandedIDs: 6ce8ffff50fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -794,22 +794,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/!Featured_Jun
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/!Featured_Jun
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\aktm7\Documents\GitHub\Misari_Puzzle
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 44490000
-    m_LastClickedID: 18756
-    m_ExpandedIDs: 000000004449000000ca9a3b
+    m_SelectedIDs: c0480000
+    m_LastClickedID: 18624
+    m_ExpandedIDs: 00000000b648000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -837,7 +837,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000044490000
+    m_ExpandedIDs: 00000000b6480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -864,7 +864,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000641fdf007a2e000010ef2e00e4348601d0ab010016b405003e3e000000000000c2640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
